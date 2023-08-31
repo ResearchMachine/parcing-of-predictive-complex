@@ -17,6 +17,12 @@ The model, which is regularly used by the company, is at an early stage of devel
 * A script has been developed that automatically translates the hierarchy of Excel formulas into raw VBA code.
 
 ### III. Content
+**Previously:** A tool for predicting the volume of oil production based on simplified physics models, implemented as an Excel calculation file consisting of more than 600 formulas on 7 sheets.  
+**What happened:** a mathematical examination of the methodology was carried out and mathematical inaccuracies were eliminated, a prototype of a VBA application with a graphical interface and the ability to input and output data on one sheet was implemented.  
+
+![image](https://github.com/ResearchMachine/commercial-project-parcing-of-predictive-complex/assets/70639823/512313fc-2b3d-4cdb-bd3a-984342e496a5)  
+
+
 
 **The project code contains 1 scripts**:
 1. [Export.bas](https://github.com/ResearchMachine/commercial-project-parcing-of-predictive-complex/blob/main/formula%20hierarchy%20export.bas)
