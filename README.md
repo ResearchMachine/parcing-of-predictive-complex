@@ -1,43 +1,22 @@
-# Title
-**Project Type:** 
-**Programming Language:** 
-**Project Сode:** 
-**Project Full Description** (in Russian): 
-**Company:** 
+#  (2021) Oil Production Predictive Model Transfer. VBA Parser from Excel Spreadsheet to VBA Code
+**Project Type:** Commercial project, Predictive Model Transfer  
+**Programming Language:** Visual Basic  
+**Project Сode:**  [Export.bas](https://github.com/ResearchMachine/commercial-project-parcing-of-predictive-complex/blob/main/formula%20hierarchy%20export.bas)  
+**Company:**  [Gazprom Neft](https://en.wikipedia.org/wiki/Gazprom_Neft)  
 
 
 
 
-### I. Motivation
+### I. Motivation and Problem
+The model, which is regularly used by the company, is at an early stage of development. It is necessary to examine the model and translate it into code.
 
-
-### II. Problem
-The main purpose of this work is ... .
-Project tasks:
-* @TASK;  
-* @TASK;  
-* @TASK.
 
 ### III. Key Results 
-* @KEYRESULT;  
-* @KEYRESULT;  
-* @KEYRESULT.
+* Complex (>600 formulas) company model translated from Excel into VBA code;
+* Fixed 3 mathematical inaccuracies in the complex model;
+* A script has been developed that automatically translates the hierarchy of Excel formulas into raw VBA code.
 
 ### III. Content
 
-
-Hydrodynamic Simulator Development. Forecast of Oil Production of special Group of Wells, Finite Element Method.
-individual commercial project. Company: Gazpromneft Technology Partnerships LLC (RUS). Programming Language: Python 3 (fipy, matplotlib, numpy).
-I. Motivation
-Earlier in the project [(2021) Complex Predictive Model Transfer](https://github.com/ResearchMachine/commercial-project-parcing-of-predictive-complex) the complex model was transferred from Excel format to VBA format. This model does not take into account hydrodynamics, which leads to the need for manual fitting of the model.
-II. Problem
-The main goal of this project is the introduction of a hydrodynamic model into the forecast complex.
-III. key results
-The model solver (finite element method, fipy library) was selected, which made it possible to repeat the result of the commercial simulator tNavigator (maximum deviation 5%).
-IV. content
-Script:
-
-
-**The project code contains @N scripts**:
-1. (@LINK) @SCRIPT;  
-2. (@LINK) @SCRIPT.
+**The project code contains 1 scripts**:
+1. [Export.bas](https://github.com/ResearchMachine/commercial-project-parcing-of-predictive-complex/blob/main/formula%20hierarchy%20export.bas)
