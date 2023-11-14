@@ -2,7 +2,7 @@
 
 **Programming Language:** VBA
 **Project Сode:**  [Export.bas](https://github.com/ResearchMachine/commercial-project-parcing-of-predictive-complex/blob/main/formula%20hierarchy%20export.bas)  
-**Company:**  [Gazprom Neft](https://en.wikipedia.org/wiki/Gazprom_Neft)  
+**Company:**  Gazpromneft Technology Partnerships LLC
 
 
 
