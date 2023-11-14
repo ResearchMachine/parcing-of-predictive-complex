@@ -1,6 +1,6 @@
 #  (2021) Oil Production Predictive Model Transfer. VBA Parser from Excel Spreadsheet to VBA Code
-**Project Type:** Commercial project, Predictive Model Transfer  
-**Programming Language:** Visual Basic  
+
+**Programming Language:** VBA
 **Project Сode:**  [Export.bas](https://github.com/ResearchMachine/commercial-project-parcing-of-predictive-complex/blob/main/formula%20hierarchy%20export.bas)  
 **Company:**  [Gazprom Neft](https://en.wikipedia.org/wiki/Gazprom_Neft)  
 
